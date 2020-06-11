@@ -1,47 +1,56 @@
 <?xml version="1.0"?>
 <Quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-      <MusicPict>attachments/music.jpg</MusicPict>
-	  <NoPics>
-	  <string>attachments/error1.jpg</string>
-	  <string>attachments/error2.jpg</string>
-	  </NoPics>
-	  
-	  <WelcomePics>
-	  <string>attachments/welcome1.png</string>
-	  <string>attachments/welcome2.jpg</string>
-	  <string>attachments/welcome3.jpg</string>
-	  </WelcomePics>
+  <MusicPict>attachments/music.jpg</MusicPict>
+  <Logo>attachments/logo.png</Logo>
+  <BackgroundQ>attachments/BackQ.jpg</BackgroundQ>
+  <BackgroundSt>attachments/BackSt.jpg</BackgroundSt>
+  <BackgroundAn>attachments/BackAn.jpg</BackgroundAn>
+  <BackgroundExp>attachments/BackExp.jpg</BackgroundExp>
+  <BackgroundRes>attachments/BackRes.jpg</BackgroundRes>
+  <YesGoldPict>attachments/Yesgold.jpg</YesGoldPict>
+  <YesSilverPict>attachments/YesSilver.jpg</YesSilverPict>
+  <YesBronzePict>attachments/YesBronze.jpg</YesBronzePict>
+  <NoPics>
+    <string>attachments/error1.jpg</string>
+    <string>attachments/error2.jpg</string>
+  </NoPics>
+  <YesPics>
+    <string>attachments/yesPict1.jpg</string>
+    <string>attachments/yesPict2.jpg</string>
+  </YesPics>
+  <WelcomePics>
+    <string>attachments/welcome1.png</string>
+    <string>attachments/welcome2.jpg</string>
+    <string>attachments/welcome3.jpg</string>
+  </WelcomePics>
   <Tours>
     <Tour>
       <Individual>false</Individual>
-	  
       <Expeditions>
         <Expedition>
           <Name>Tour 1 Expedition 1</Name>
+          <HelpType>Help 1</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 1 Question 1</Text>
               <Prompt>Prompt 1</Prompt>
               <PictureQ>attachments/pict1.jpg</PictureQ>
-			  <AudioA>attachments/music1.mp3</AudioA>
               <Help>1</Help>
             </Question>
             <Question>
               <Text>Expedition 1 Question 2</Text>
+              <PictureA>attachments/pict2.jpg</PictureA>			  
               <Prompt>Prompt 2</Prompt>
-              <PictureA>attachments/pict4.png</PictureA>
               <Help>2</Help>
             </Question>
             <Question>
               <Text>Expedition 1 Question 3</Text>
+			  <AudioQ>attachments/music1.mp3</AudioQ>
               <Prompt>Prompt 3</Prompt>
               <Help>3</Help>
-              <Video>attachments/video1.mp4</Video>
-              <PictureA>attachments/pict1.jpg</PictureA>
             </Question>
             <Question>
               <Text>Expedition 1 Question 4</Text>
-			  <AudioQ>attachments/music1.mp3</AudioQ>
               <Prompt>Prompt 4</Prompt>
               <Help>4</Help>
             </Question>
@@ -49,28 +58,25 @@
         </Expedition>
         <Expedition>
           <Name>Tour 1 Expedition 2</Name>
+          <HelpType>Help 2</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 2 Question 1</Text>
-			  <AudioQ>attachments/music2.mp3</AudioQ>
               <Prompt>Prompt 1</Prompt>
               <Help>1</Help>
             </Question>
             <Question>
               <Text>Expedition 2 Question 2</Text>
-              <Video>attachments/video2.mp4</Video>
               <Prompt>Prompt 2</Prompt>
               <Help>2</Help>
             </Question>
             <Question>
-              <Text>Expedition 2 Question 3</Text>			  
-			  <AudioA>attachments/music2.mp3</AudioA>
+              <Text>Expedition 2 Question 3</Text>
               <Prompt>Prompt 3</Prompt>
               <Help>3</Help>
             </Question>
             <Question>
               <Text>Expedition 2 Question 4</Text>
-              <PictureQ>attachments/pict3.jpg</PictureQ>
               <Prompt>Prompt 4</Prompt>
               <Help>4</Help>
             </Question>
@@ -78,6 +84,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 1 Expedition 3</Name>
+          <HelpType>Help 3</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 3 Question 1</Text>
@@ -103,6 +110,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 1 Expedition 4</Name>
+          <HelpType>Help 4</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 4 Question 1</Text>
@@ -112,7 +120,6 @@
             <Question>
               <Text>Expedition 4 Question 2</Text>
               <Prompt>Prompt 2</Prompt>
-              <PictureQ>attachments/pict1.jpg</PictureQ>
               <Help>2</Help>
             </Question>
             <Question>
@@ -129,6 +136,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 1 Expedition 5</Name>
+          <HelpType>Help 5</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 5 Question 1</Text>
@@ -147,7 +155,6 @@
             </Question>
             <Question>
               <Text>Expedition 5 Question 4</Text>
-              <PictureQ>attachments/pict1.jpg</PictureQ>
               <Prompt>Prompt 4</Prompt>
               <Help>4</Help>
             </Question>
@@ -155,6 +162,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 1 Expedition 6</Name>
+          <HelpType>Help 6</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 6 Question 1</Text>
@@ -185,6 +193,7 @@
       <Expeditions>
         <Expedition>
           <Name>Tour 2 Expedition 1</Name>
+          <HelpType>Help 1</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 1 Question 1</Text>
@@ -210,6 +219,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 2 Expedition 2</Name>
+          <HelpType>Help 2</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 2 Question 1</Text>
@@ -235,6 +245,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 2 Expedition 3</Name>
+          <HelpType>Help 3</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 3 Question 1</Text>
@@ -260,6 +271,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 2 Expedition 4</Name>
+          <HelpType>Help 4</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 4 Question 1</Text>
@@ -285,6 +297,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 2 Expedition 5</Name>
+          <HelpType>Help 5</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 5 Question 1</Text>
@@ -310,6 +323,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 2 Expedition 6</Name>
+          <HelpType>Help 6</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 6 Question 1</Text>
@@ -340,6 +354,7 @@
       <Expeditions>
         <Expedition>
           <Name>Tour 3 Expedition 1</Name>
+          <HelpType>Help 1</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 1 Question 1</Text>
@@ -365,6 +380,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 3 Expedition 2</Name>
+          <HelpType>Help 2</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 2 Question 1</Text>
@@ -390,6 +406,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 3 Expedition 3</Name>
+          <HelpType>Help 3</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 3 Question 1</Text>
@@ -415,6 +432,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 3 Expedition 4</Name>
+          <HelpType>Help 4</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 4 Question 1</Text>
@@ -440,6 +458,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 3 Expedition 5</Name>
+          <HelpType>Help 5</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 5 Question 1</Text>
@@ -465,6 +484,7 @@
         </Expedition>
         <Expedition>
           <Name>Tour 3 Expedition 6</Name>
+          <HelpType>Help 6</HelpType>
           <Questions>
             <Question>
               <Text>Expedition 6 Question 1</Text>
