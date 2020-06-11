@@ -17,15 +17,37 @@
 * BackgroundRes - ФОН-РЕЗУЛЬТАТЫ
 * MusicPict - изображение МУЗЫКА
 * Tours - список туров (3)
-  * Tour - описание тура
+  * Tour 1 - описание тура
     * Expeditions - список экспедиций (6)
-      * Expedition - описание экспедициии
+      * Expedition 1 - описание экспедициии
         * Name - название экспедиции
         * HelpType - тип подсказки
         * Questions - список вопросов (4)
-          * Question - описание вопроса
+          * Question 1 - описание вопроса
             * Text - текст вопроса
             * Prompt - напоминалка
             * Help - подсказка
             * _PictureQ - изображение в вопросе_
             * _PictureA - изображение в ответе_
+            * _AudioA - аудио в вопросе_
+            * _AudioA - аудио в ответе_
+            * _Video - видео в вопросе_
+          * Question 2
+            * ...
+          * Question 3
+            * ...
+          * Question 4
+            * ...
+      * Expedition 2
+        * Question 1
+          * ....
+        * ...
+      * ...
+      * Expedition 6
+  * Tour 2
+    * ...
+  * Tour 3
+    * ...
+      
+       
+          
