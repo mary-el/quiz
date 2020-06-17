@@ -39,7 +39,8 @@
             </Question>
             <Question>
               <Text>Expedition 1 Question 2</Text>
-              <PictureA>attachments/pict2.jpg</PictureA>			  
+              <PictureA>attachments/pict2.jpg</PictureA>		
+			  <Video>attachments/Video1.mp4</Video>
               <Prompt>Prompt 2</Prompt>
               <Help>2</Help>
             </Question>
@@ -51,6 +52,7 @@
             </Question>
             <Question>
               <Text>Expedition 1 Question 4</Text>
+			  <AudioA>attachments/music1.mp3</AudioA>
               <Prompt>Prompt 4</Prompt>
               <Help>4</Help>
             </Question>
