@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Pics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MusicPict>attachments/music.jpg</MusicPict>
+  <Logo>attachments/logo.png</Logo>
+  <BackgroundQ>attachments/BackQ.jpg</BackgroundQ>
+  <BackgroundSt>attachments/BackSt.jpg</BackgroundSt>
+  <BackgroundAn>attachments/BackAn.jpg</BackgroundAn>
+  <BackgroundExp>attachments/BackExp.jpg</BackgroundExp>
+  <BackgroundRes>attachments/BackRes.jpg</BackgroundRes>
+  <YesGoldPict>attachments/Yesgold.jpg</YesGoldPict>
+  <YesSilverPict>attachments/YesSilver.jpg</YesSilverPict>
+  <YesBronzePict>attachments/YesBronze.jpg</YesBronzePict>
+  <NoPics>
+    <string>attachments/error1.jpg</string>
+    <string>attachments/error2.jpg</string>
+  </NoPics>
+  <YesPics>
+    <string>attachments/yesPict1.jpg</string>
+    <string>attachments/yesPict2.jpg</string>
+  </YesPics>
+  <WelcomePics>
+    <string>attachments/welcome1.png</string>
+    <string>attachments/welcome2.jpg</string>
+    <string>attachments/welcome3.jpg</string>
+  </WelcomePics>
+</Pics>
