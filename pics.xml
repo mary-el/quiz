@@ -1,12 +1,27 @@
 <?xml version="1.0"?>
 <Pics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <MusicPict>attachments/music.jpg</MusicPict>
+  <MusicPict>attachments/audio.png</MusicPict>
+  <VideoPict>attachments/video.png</VideoPict>
   <Logo>attachments/logo.png</Logo>
-  <BackgroundQ>attachments/BackQ.jpg</BackgroundQ>
-  <BackgroundSt>attachments/BackSt.jpg</BackgroundSt>
-  <BackgroundAn>attachments/BackAn.jpg</BackgroundAn>
-  <BackgroundExp>attachments/BackExp.jpg</BackgroundExp>
-  <BackgroundRes>attachments/BackRes.jpg</BackgroundRes>
+  <FontTeams>attachments/xband.ttf</FontTeams>
+  <FontQ>attachments/framd.ttf</FontQ>
+  <FontSizeExpN>80</FontSizeExpN>
+  <FontSizeExp>40</FontSizeExp>
+  <FontSizeQ>25</FontSizeQ>
+  <FontSizeTeams>20</FontSizeTeams>
+  <FontSizeSelectedTeams>30</FontSizeSelectedTeams>
+  <FontSizeTeamsGame>20</FontSizeTeamsGame>
+  <FontColorTeams>0xe6e6e6</FontColorTeams>
+  <FontColorExp>0xe6e6e6</FontColorExp>
+  <FontColorCost>0xffff00</FontColorCost>
+  <FontColorQ>0xffffff</FontColorQ>
+  <FontColorHelp>0x00ffff</FontColorHelp>
+  <FontColorSelectedTeams>0xffff00</FontColorSelectedTeams>
+  <BackgroundQ>attachments/bg-dark.jpg</BackgroundQ>
+  <BackgroundSt>attachments/bg-st.jpg</BackgroundSt>
+  <BackgroundAn>attachments/bg-red.png</BackgroundAn>
+  <BackgroundExp>attachments/bg-red.png</BackgroundExp>
+  <BackgroundRes>attachments/bg-azure.png</BackgroundRes>
   <YesGoldPict>attachments/Yesgold.jpg</YesGoldPict>
   <YesSilverPict>attachments/YesSilver.jpg</YesSilverPict>
   <YesBronzePict>attachments/YesBronze.jpg</YesBronzePict>
