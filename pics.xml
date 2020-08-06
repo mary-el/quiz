@@ -33,9 +33,17 @@
     <string>attachments/yesPict1.jpg</string>
     <string>attachments/yesPict2.jpg</string>
   </YesPics>
-  <WelcomePics>
+  
+  <WelcomePicsStart>
     <string>attachments/welcome1.png</string>
     <string>attachments/welcome2.jpg</string>
+  </WelcomePicsStart>  
+  <WelcomePicsMid>
+    <string>attachments/welcome2.jpg</string>
     <string>attachments/welcome3.jpg</string>
-  </WelcomePics>
+  </WelcomePicsMid>  
+  <WelcomePicsEnd>
+    <string>attachments/welcome3.jpg</string>
+    <string>attachments/welcome1.png</string>
+  </WelcomePicsEnd>  
 </Pics>
