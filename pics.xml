@@ -7,13 +7,14 @@
   <FontQ>attachments/framd.ttf</FontQ>
   <FontSizeExpN>80</FontSizeExpN>
   <FontSizeExp>40</FontSizeExp>
-  <FontSizeQ>25</FontSizeQ>
+  <FontSizeQ>40</FontSizeQ>
   <FontSizeTeams>20</FontSizeTeams>
   <FontSizeSelectedTeams>30</FontSizeSelectedTeams>
   <FontSizeTeamsGame>20</FontSizeTeamsGame>
   <FontColorTeams>0xe6e6e6</FontColorTeams>
   <FontColorExp>0xe6e6e6</FontColorExp>
   <FontColorCost>0xffff00</FontColorCost>
+  <BackColorQ>0x000000</BackColorQ>
   <FontColorQ>0xffffff</FontColorQ>
   <FontColorHelp>0x00ffff</FontColorHelp>
   <FontColorSelectedTeams>0xffff00</FontColorSelectedTeams>
