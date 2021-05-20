@@ -29,10 +29,12 @@
   <NoPics>
     <string>attachments/error1.jpg</string>
     <string>attachments/error2.jpg</string>
+    <string>attachments/error30.jpg</string>
   </NoPics>
   <YesPics>
     <string>attachments/yesPict1.jpg</string>
     <string>attachments/yesPict2.jpg</string>
+    <string>attachments/yesPict30.jpg</string>
   </YesPics>
   
   <WelcomePicsStart>
