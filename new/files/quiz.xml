@@ -1,0 +1,1133 @@
+<?xml version="1.0"?>
+<Quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tours>
+    <Tour>
+      <Expeditions>
+        <Expedition>
+          <Name>Tour 1 Expedition 1</Name>
+          <HelpType>Help 1</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 1 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 1 Expedition 2</Name>
+          <HelpType>Help 2</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 2 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 1 Expedition 3</Name>
+          <HelpType>Help 3</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 3 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 1 Expedition 4</Name>
+          <HelpType>Help 4</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 4 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 1 Expedition 5</Name>
+          <HelpType>Help 5</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 5 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 1 Expedition 6</Name>
+          <HelpType>Help 6</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 6 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+      </Expeditions>
+    </Tour>
+    <Tour>
+      <Expeditions>
+        <Expedition>
+          <Name>Tour 2 Expedition 1</Name>
+          <HelpType>Help 1</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 1 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 2 Expedition 2</Name>
+          <HelpType>Help 2</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 2 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 2 Expedition 3</Name>
+          <HelpType>Help 3</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 3 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 2 Expedition 4</Name>
+          <HelpType>Help 4</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 4 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 2 Expedition 5</Name>
+          <HelpType>Help 5</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 5 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 2 Expedition 6</Name>
+          <HelpType>Help 6</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 6 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+      </Expeditions>
+    </Tour>
+    <Tour>
+      <Expeditions>
+        <Expedition>
+          <Name>Tour 3 Expedition 1</Name>
+          <HelpType>Help 1</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 1 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 1 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 3 Expedition 2</Name>
+          <HelpType>Help 2</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 2 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 2 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 3 Expedition 3</Name>
+          <HelpType>Help 3</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 3 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 3 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 3 Expedition 4</Name>
+          <HelpType>Help 4</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 4 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 4 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 3 Expedition 5</Name>
+          <HelpType>Help 5</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 5 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 5 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+        <Expedition>
+          <Name>Tour 3 Expedition 6</Name>
+          <HelpType>Help 6</HelpType>
+          <Questions>
+            <Question>
+              <Text>Expedition 6 Question 1</Text>
+              <Answer>Answer 1</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 1</Prompt>
+              <Help>1</Help>
+              <Hint>Hint to question 1 - 1
+Hint to question 1 - 2</Hint>
+              <HintForm>Form of question 1</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 2</Text>
+              <Answer>Answer 2</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 2</Prompt>
+              <Help>2</Help>
+              <Hint>Hint to question 2 - 1
+Hint to question 2 - 2</Hint>
+              <HintForm>Form of question 2</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 3</Text>
+              <Answer>Answer 3</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 3</Prompt>
+              <Help>3</Help>
+              <Hint>Hint to question 3 - 1
+Hint to question 3 - 2</Hint>
+              <HintForm>Form of question 3</HintForm>
+            </Question>
+            <Question>
+              <Text>Expedition 6 Question 4</Text>
+              <Answer>Answer 4</Answer>
+              <PictureQ />
+              <PictureA />
+              <AudioQ />
+              <AudioA />
+              <Video />
+              <Prompt>Prompt 4</Prompt>
+              <Help>4</Help>
+              <Hint>Hint to question 4 - 1
+Hint to question 4 - 2</Hint>
+              <HintForm>Form of question 4</HintForm>
+            </Question>
+          </Questions>
+        </Expedition>
+      </Expeditions>
+    </Tour>
+  </Tours>
+</Quiz>
