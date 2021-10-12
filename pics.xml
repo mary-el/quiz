@@ -7,13 +7,15 @@
   <FontQ>attachments/framd.ttf</FontQ>
   <FontSizeExpN>80</FontSizeExpN>
   <FontSizeExp>40</FontSizeExp>
-  <FontSizeQ>25</FontSizeQ>
+  <FontSizeQ>40</FontSizeQ>
   <FontSizeTeams>20</FontSizeTeams>
+  <FontSizeHints>30</FontSizeHints>
   <FontSizeSelectedTeams>30</FontSizeSelectedTeams>
   <FontSizeTeamsGame>20</FontSizeTeamsGame>
   <FontColorTeams>0xe6e6e6</FontColorTeams>
   <FontColorExp>0xe6e6e6</FontColorExp>
   <FontColorCost>0xffff00</FontColorCost>
+  <BackColorQ>0x000000</BackColorQ>
   <FontColorQ>0xffffff</FontColorQ>
   <FontColorHelp>0x00ffff</FontColorHelp>
   <FontColorSelectedTeams>0xffff00</FontColorSelectedTeams>
@@ -21,6 +23,7 @@
   <BackgroundSt>attachments/bg-st.jpg</BackgroundSt>
   <BackgroundAn>attachments/bg-red.png</BackgroundAn>
   <BackgroundExp>attachments/bg-red.png</BackgroundExp>
+  <BackgroundRepeat>attachments/bg-repeat.jpg</BackgroundRepeat>
   <BackgroundRes>attachments/bg-azure.png</BackgroundRes>
   <YesGoldPict>attachments/Yesgold.jpg</YesGoldPict>
   <YesSilverPict>attachments/YesSilver.jpg</YesSilverPict>
@@ -28,14 +31,16 @@
   <NoPics>
     <string>attachments/error1.jpg</string>
     <string>attachments/error2.jpg</string>
+    <string>attachments/error30.jpg</string>
   </NoPics>
   <YesPics>
     <string>attachments/yesPict1.jpg</string>
     <string>attachments/yesPict2.jpg</string>
+    <string>attachments/yesPict30.jpg</string>
   </YesPics>
   
   <WelcomePicsStart>
-    <string>attachments/welcome1.png</string>
+    <string>attachments/welcome4.gif</string>
     <string>attachments/welcome2.jpg</string>
   </WelcomePicsStart>  
   <WelcomePicsMid>
