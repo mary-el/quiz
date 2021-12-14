@@ -7,7 +7,7 @@
     <Plays1>true</Plays1>
     <Plays2>false</Plays2>
     <Short>t1</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team2</Name>
@@ -16,7 +16,7 @@
     <Plays1>false</Plays1>
     <Plays2>true</Plays2>
     <Short>t2</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team3</Name>
@@ -25,7 +25,7 @@
     <Plays1>true</Plays1>
     <Plays2>true</Plays2>
     <Short>t3</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team4</Name>
@@ -34,7 +34,7 @@
     <Plays1>true</Plays1>
     <Plays2>false</Plays2>
     <Short>t4</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team5</Name>
@@ -43,7 +43,7 @@
     <Plays1>false</Plays1>
     <Plays2>true</Plays2>
     <Short>t5</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team6</Name>
@@ -52,7 +52,7 @@
     <Plays1>true</Plays1>
     <Plays2>false</Plays2>
     <Short>t6</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team7</Name>
@@ -61,7 +61,7 @@
     <Plays1>false</Plays1>
     <Plays2>true</Plays2>
     <Short>t7</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team8</Name>
@@ -70,7 +70,7 @@
     <Plays1>false</Plays1>
     <Plays2>false</Plays2>
     <Short>t8</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team9</Name>
@@ -79,7 +79,7 @@
     <Plays1>false</Plays1>
     <Plays2>false</Plays2>
     <Short>t9</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
   </Team>
   <Team>
     <Name>team10</Name>
@@ -88,6 +88,69 @@
     <Plays1>false</Plays1>
     <Plays2>false</Plays2>
     <Short>t10</Short>
-    <Visible>false</Visible>
+    <Running>false</Running>
+  </Team>
+  <Team>
+    <Name>4 Running</Name>
+    <Number>11</Number>
+    <Group>1</Group>
+    <Plays1>false</Plays1>
+    <Plays2>false</Plays2>
+    <Short>4 Running</Short>
+    <Running>true</Running>
+  </Team>
+  <Team>
+    <Name>2 running-1</Name>
+    <Number>12</Number>
+    <Group>1</Group>
+    <Plays1>false</Plays1>
+    <Plays2>false</Plays2>
+    <Short>2 running-1</Short>
+    <Running>true</Running>
+  </Team>
+  <Team>
+    <Name>2 running-2</Name>
+    <Number>13</Number>
+    <Group>1</Group>
+    <Plays1>false</Plays1>
+    <Plays2>false</Plays2>
+    <Short>2 running-2</Short>
+    <Running>true</Running>
+  </Team>
+  <Team>
+    <Name>running-1</Name>
+    <Number>14</Number>
+    <Group>1</Group>
+    <Plays1>false</Plays1>
+    <Plays2>false</Plays2>
+    <Short>running-1</Short>
+    <Running>true</Running>
+  </Team>
+  <Team>
+    <Name>running-2</Name>
+    <Number>15</Number>
+    <Group>1</Group>
+    <Plays1>false</Plays1>
+    <Plays2>false</Plays2>
+    <Short>running-2</Short>
+    <Running>true</Running>
+  </Team>
+  <Team>
+    <Name>running-3</Name>
+    <Number>16</Number>
+    <Group>1</Group>
+    <Plays1>false</Plays1>
+    <Plays2>false</Plays2>
+    <Short>running-3</Short>
+    <Running>true</Running>
+  </Team>
+  <Team>
+    <Name>running-4</Name>
+    <Number>17</Number>
+    <Group>1</Group>
+    <Plays1>false</Plays1>
+    <Plays2>false</Plays2>
+    <Short>running-4</Short>
+    <Running>true</Running>
   </Team>
 </ArrayOfTeam>
