@@ -16,12 +16,14 @@
   <FontColorExp>0xe6e6e6</FontColorExp>
   <FontColorCost>0xffff00</FontColorCost>
   <BackColorQ>0x000000</BackColorQ>
-  <FontColorResults>0xaaaaaa</FontColorResults>
+  <FontColorResults>0xaaaa00</FontColorResults>
   <FontColorRunners>0xff0000</FontColorRunners>
   <FontColorQ>0xffffff</FontColorQ>
   <FontColorHelp>0x00ffff</FontColorHelp>
   <FontColorSelectedTeams>0xffff00</FontColorSelectedTeams>
-  <FontColorMission>0xff0000</FontColorMission>
+  <FontColorMission>0xff0000</FontColorMission> 
+  <FontColorLeader>0x000080</FontColorLeader>
+  <FontColorSum>0xff00ff</FontColorSum>
   <BackgroundQ>attachments/bg-dark.jpg</BackgroundQ>
   <BackgroundSt>attachments/bg-st.jpg</BackgroundSt>
   <BackgroundAn>attachments/bg-red.png</BackgroundAn>
