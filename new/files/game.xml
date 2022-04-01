@@ -401,15 +401,15 @@
       <Place>1</Place>
       <RealPlace>1</RealPlace>
       <PrevPlace>1</PrevPlace>
-      <Team>team1</Team>
-      <Start>0</Start>
+      <Team>команда</Team>
+      <Start>1</Start>
       <Invisible>false</Invisible>
-      <Tour11>0</Tour11>
+      <Tour11>2</Tour11>
       <St11>false</St11>
-      <Tour12>0</Tour12>
+      <Tour12>43</Tour12>
       <St12>false</St12>
       <Tour13>0</Tour13>
-      <St13>false</St13>
+      <St13>true</St13>
       <Tour14>0</Tour14>
       <St14>false</St14>
       <Tour21>0</Tour21>
@@ -428,23 +428,23 @@
       <St33>false</St33>
       <Tour34>0</Tour34>
       <St34>false</St34>
-      <Sum>0</Sum>
+      <Sum>46</Sum>
       <LastAnswer>100</LastAnswer>
       <OldLastAnswer>100</OldLastAnswer>
     </Score>
     <Score>
       <TeamN>1</TeamN>
-      <Place>2</Place>
-      <RealPlace>2</RealPlace>
+      <Place>3</Place>
+      <RealPlace>3</RealPlace>
       <PrevPlace>2</PrevPlace>
-      <Team>team2</Team>
+      <Team>абв</Team>
       <Start>0</Start>
       <Invisible>false</Invisible>
       <Tour11>0</Tour11>
       <St11>false</St11>
       <Tour12>0</Tour12>
       <St12>false</St12>
-      <Tour13>0</Tour13>
+      <Tour13>6</Tour13>
       <St13>false</St13>
       <Tour14>0</Tour14>
       <St14>false</St14>
@@ -464,23 +464,23 @@
       <St33>false</St33>
       <Tour34>0</Tour34>
       <St34>false</St34>
-      <Sum>0</Sum>
+      <Sum>6</Sum>
       <LastAnswer>100</LastAnswer>
       <OldLastAnswer>100</OldLastAnswer>
     </Score>
     <Score>
       <TeamN>2</TeamN>
-      <Place>3</Place>
-      <RealPlace>3</RealPlace>
+      <Place>2</Place>
+      <RealPlace>2</RealPlace>
       <PrevPlace>3</PrevPlace>
-      <Team>team3</Team>
+      <Team>ааач</Team>
       <Start>0</Start>
       <Invisible>false</Invisible>
-      <Tour11>0</Tour11>
+      <Tour11>5</Tour11>
       <St11>false</St11>
-      <Tour12>0</Tour12>
+      <Tour12>6</Tour12>
       <St12>false</St12>
-      <Tour13>0</Tour13>
+      <Tour13>7</Tour13>
       <St13>false</St13>
       <Tour14>0</Tour14>
       <St14>false</St14>
@@ -500,7 +500,7 @@
       <St33>false</St33>
       <Tour34>0</Tour34>
       <St34>false</St34>
-      <Sum>0</Sum>
+      <Sum>18</Sum>
       <LastAnswer>100</LastAnswer>
       <OldLastAnswer>100</OldLastAnswer>
     </Score>
@@ -515,7 +515,7 @@
       <Tour11>0</Tour11>
       <St11>false</St11>
       <Tour12>0</Tour12>
-      <St12>false</St12>
+      <St12>true</St12>
       <Tour13>0</Tour13>
       <St13>false</St13>
       <Tour14>0</Tour14>
